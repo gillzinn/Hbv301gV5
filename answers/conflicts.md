@@ -1,7 +1,7 @@
 # Árekstrapör (3)
 
 ## Par 1: Performance vs. Security
-- **Árekstur (2–3 setningar):** Með örrygiseiginleikum eins og dulkóðun eða slíku mun það lækka afköst kerfisins þar sem það þarf að eyða tíma í vinnslu á streymi.
+- **Árekstur:** Með örrygiseiginleikum eins og dulkóðun eða slíku mun það lækka afköst kerfisins þar sem það þarf að eyða tíma í vinnslu á streymi.
 - **Forgangsröðun og rök:** Performance er mikilvægara en Security þegar það kemur að því að streyma en það eru önnur svið þar sem viðkæmar upplýsingar eða tölvuauðlindir fyrirtækisins semkeyrir þjónustuna þar sem Security er mun mikilvægara.
 
 ## Par 2: Usability vs. Security
